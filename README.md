@@ -6,7 +6,7 @@ Desarrollador Full Stack graduado en Informática (**IUJO, Caracas**) con experi
 
 ---
 
-### 🛠️ Stack Tecnológico en Producción
+###  Stack Tecnológico en Producción
 
 * **Backend & Arquitectura:** Go (Golang), Python (Flask), Node.js, Microservicios, API Gateway, REST APIs, RabbitMQ.
 * **Identidad & Seguridad:** Keycloak 24 (SSO, OAuth2/OIDC, JWT, RBAC multi-región, 2FA TOTP).
@@ -16,7 +16,7 @@ Desarrollador Full Stack graduado en Informática (**IUJO, Caracas**) con experi
 
 ---
 
-### 🚀 Proyectos Destacados en este Perfil
+###  Proyectos Destacados en este Perfil
 
 | Proyecto | Tecnologías | Qué resuelve |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ Desarrollador Full Stack graduado en Informática (**IUJO, Caracas**) con experi
 
 ---
 
-### 📫 Contacto Directo
+###  Contacto Directo
 
 * **LinkedIn:** [linkedin.com/in/jesus-soto-noto](https://www.linkedin.com/in/jesus-soto-noto)
 * **Email:** [sotonoto321@gmail.com](mailto:sotonoto321@gmail.com)
