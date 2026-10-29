@@ -1,4 +1,4 @@
-# Hola, soy Jesús A. Soto Noto 👋
+# Hola, soy Jesús Alejandro Soto Noto 
 
 ### Desarrollador de Software Full Stack | Go (Golang) · React & TypeScript · Python · Docker
 
