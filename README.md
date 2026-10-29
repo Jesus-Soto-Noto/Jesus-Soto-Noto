@@ -30,6 +30,6 @@ Desarrollador Full Stack graduado en Informática (**IUJO, Caracas**) con experi
 
 ###  Contacto Directo
 
-* **LinkedIn:** [linkedin.com/in/jesús-a-soto-noto-633204220](https://www.linkedin.com/in/jes%C3%BAs-a-soto-noto-633204220/)
+* **LinkedIn:** [linkedin.com/in/jesus-soto-noto](https://www.linkedin.com/in/jesus-soto-noto/)
 * **Email:** [sotonoto321@gmail.com](mailto:sotonoto321@gmail.com)
 * **Ubicación:** Caracas, Venezuela — **Disponible 100% Remoto (GMT-4)**
